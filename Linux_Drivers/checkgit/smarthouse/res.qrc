@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/temperature.jpg</file>
+        <file>icons/sun.jpeg</file>
+        <file>icons/light.jpg</file>
+        <file>icons/distance.jpeg</file>
+        <file>icons/beep.jpg</file>
+        <file>icons/pulldown.png</file>
+        <file>icons/login.png</file>
+        <file>icons/smart.jpeg</file>
+        <file>icons/right.jpeg</file>
+        <file>icons/Snipaste.png</file>
+        <file>icons/ye.png</file>
+        <file>icons/Snipaste.svg</file>
+        <file>icons/ee1.png</file>
+        <file>icons/peo.png</file>
+        <file>icons/tele.jpg</file>
+        <file>icons/cur.jpeg</file>
+    </qresource>
+</RCC>

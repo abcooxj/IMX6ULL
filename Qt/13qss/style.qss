@@ -1,0 +1,3 @@
+QWidget {background-color:red}
+QLabel{background-color:black}
+QLabel#label2 {background-color:blue}
